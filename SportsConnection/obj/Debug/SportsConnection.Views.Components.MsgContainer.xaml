@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:SportsConnection"
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.MsgContainer">
+	
+	<StackLayout 
+		x:Name="msgContainer"
+		AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+		AbsoluteLayout.LayoutFlags="All"
+		Padding="20"
+		BackgroundColor="{x:Static local:Colors.TRANSPARENT_LIGHT_BLACK}">
+
+		<StackLayout
+			Orientation="Vertical"
+			HorizontalOptions="FillAndExpand"
+			VerticalOptions="CenterAndExpand">
+						
+			<Label 
+				x:Name="msgTxt"
+				HorizontalOptions="Center"
+				VerticalOptions="Start"
+				HorizontalTextAlignment="Center"
+				Text=""
+				TextColor="{x:Static local:Colors.LIGHT_GRAY}"/>
+
+			<ffimageloading:CachedImage 
+				x:Name="msgImg"
+				HorizontalOptions="Center"
+				VerticalOptions="Start"
+				HeightRequest="60"
+				WidthRequest="60"
+				DownsampleToViewSize="true"
+				IsVisible="false"/>
+
+			<ActivityIndicator 
+				x:Name="loadingSpinner"
+				HorizontalOptions="Center"
+				VerticalOptions="Start"
+				Color="White"
+				IsRunning="true"/>
+						
+		</StackLayout>
+
+	</StackLayout>
+	
+</ContentView>

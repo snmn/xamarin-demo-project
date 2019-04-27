@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+		xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+		xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+		xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+		x:Class="SportsConnection.About">
+
+	<ContentPage.Content>
+
+		<AbsoluteLayout 
+			x:Name="pageContainer">
+
+			<StackLayout 
+				x:Name="mainContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				Padding="0,0,0,10">
+
+				<WebView 
+					x:Name="browser" 
+					WidthRequest="1000" 
+					HeightRequest="1000" />
+
+			</StackLayout>
+
+			<local:MsgContainer 
+				x:Name="msgContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+					
+			<local:NoConnectionContainer 
+				x:Name="noConnectionContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+							
+		</AbsoluteLayout>
+
+	</ContentPage.Content>
+	
+</ContentPage>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+		xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		xmlns:local="clr-namespace:SportsConnection"
+		xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+		xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+		x:Class="SportsConnection.Menu"
+		Icon="{x:Static local:Constants.IMAGE_ICO_HAMBURGUER}"
+        Title="{x:Static local:Txt.MENU_TITLE}"
+		Padding="0,0,0,0"
+		BackgroundColor="{x:Static local:Colors.BLUEISH_BLACK}">
+
+	<ContentPage.Content>
+
+		<!-- Menu Container -->
+		<StackLayout 
+			VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand">
+
+	      <!-- Profile -->
+	      <StackLayout
+			  x:Name="profileMenuOption"
+			  VerticalOptions="Start"
+			  HorizontalOptions="FillAndExpand" 
+			  Orientation="Horizontal"
+			  Padding="0, 0, 0, 0" 
+			  BackgroundColor="{x:Static local:Colors.BLUEISH_GRAY}">
+				
+		     <ffimageloading:CachedImage 
+					x:Name="profilePic" 
+					HorizontalOptions="Start" 
+					VerticalOptions="StartAndExpand" 
+					WidthRequest="60"
+					HeightRequest="60"
+					DownsampleToViewSize="true"
+					BackgroundColor="White"
+					Source="{Binding Source}"/>
+
+			<StackLayout 
+		     	 VerticalOptions="CenterAndExpand"
+				 HorizontalOptions="StartAndExpand" 
+			 	 Orientation="Horizontal" 
+				 Padding="10,0,10,0">
+
+				 <Label
+					x:Name="userName" 
+		      		VerticalOptions="CenterAndExpand"
+					HorizontalOptions="FillAndExpand" 
+					Text="{Binding title}"
+					TextColor="{x:Static local:Colors.LIGHT_GRAY}"
+					FontSize="18"
+					FontAttributes="Bold"/>
+					
+		    </StackLayout>
+				
+		  </StackLayout>
+		  <!-- ./Profile -->
+
+		  <StackLayout 
+			  Orientation="Vertical"
+			  VerticalOptions="FillAndExpand"
+			  HorizontalOptions="FillAndExpand" 
+			  Padding="0, 0, 0, 0"
+			  BackgroundColor="{x:Static local:Colors.BLUEISH_BLACK}">
+			
+		      <ListView 
+				   x:Name="menuMainOptions" 
+				   VerticalOptions="FillAndExpand"
+				   HorizontalOptions="FillAndExpand"
+				   SeparatorVisibility="None" 
+				   HasUnevenRows="true">
+					
+			        <ListView.ItemTemplate>
+						
+			          <DataTemplate>
+							
+			            <ViewCell>
+								
+			              <StackLayout 
+								Orientation="Horizontal"
+								HorizontalOptions="Start" 
+								VerticalOptions="End"
+								Padding="20, 10, 10, 10">
+									
+							    <ffimageloading:CachedImage
+									HorizontalOptions="Start" 
+									VerticalOptions="CenterAndExpand" 
+									WidthRequest="24" 
+									HeightRequest="24"
+									DownsampleToViewSize="true"
+									Source="{Binding iconSource}" />
+										
+							    <StackLayout 
+									HorizontalOptions="Start" 
+									VerticalOptions="CenterAndExpand"
+									Orientation="Horizontal" 
+									Padding="18,0,0,0" >
+											
+							          <Label 
+										HorizontalOptions="StartAndExpand" 
+										VerticalOptions="CenterAndExpand" 
+										Text="{Binding title}" 
+										TextColor="{x:Static local:Colors.WHITE}" />
+											
+							    </StackLayout>
+									
+						  </StackLayout>
+								
+						</ViewCell>
+							
+			          </DataTemplate>
+						
+		        	</ListView.ItemTemplate>
+					
+		      </ListView>
+				
+			  <ListView 
+				   x:Name="menuExtraOptions" 
+				   VerticalOptions="End"
+				   HorizontalOptions="FillAndExpand"
+				   HeightRequest="140"
+				   SeparatorVisibility="None" 
+				   HasUnevenRows="false"
+				   BackgroundColor="{x:Static local:Colors.MEDIUM_BLACK}">
+					
+			        <ListView.ItemTemplate>
+						
+			          <DataTemplate>
+							
+			            <ViewCell>
+								
+			              <StackLayout 
+								HorizontalOptions="Start" 
+								VerticalOptions="Center"
+								Orientation="Horizontal"
+								Padding="20, 5, 0, 5">
+									
+							    <ffimageloading:CachedImage
+									HorizontalOptions="Start" 
+									VerticalOptions="CenterAndExpand" 
+									WidthRequest="24" 
+									HeightRequest="24"
+									Opacity="0.75"
+									DownsampleToViewSize="true"
+									Source="{Binding iconSource}" />
+										
+							    <StackLayout 
+									HorizontalOptions="Start" 
+									VerticalOptions="CenterAndExpand"
+									Orientation="Horizontal" 
+									Padding="18,0,0,0" >
+											
+							          <Label 
+										HorizontalOptions="StartAndExpand" 
+										VerticalOptions="CenterAndExpand" 
+										Text="{Binding title}" 
+										TextColor="{x:Static local:Colors.MEDIUM_GRAY}" />
+										
+						    </StackLayout>
+									
+						  </StackLayout>
+								
+						</ViewCell>
+							
+			          </DataTemplate>
+						
+		        	</ListView.ItemTemplate>
+					
+		      </ListView>
+
+		   </StackLayout>
+	       <!-- ./Main Container -->
+				
+	    </StackLayout>
+	    <!-- ./Menu Container -->
+
+	</ContentPage.Content>
+	
+</ContentPage>

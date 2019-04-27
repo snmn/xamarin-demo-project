@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1020002" android:versionName="1.2.3" package="com.xamarin.sample.SportsConnection">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <permission android:name="com.xamarin.sample.SportsConnection.permission.C2D_MESSAGE" />
+  <uses-permission android:name="com.xamarin.sample.SportsConnection.permission.C2D_MESSAGE" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+  <application android:label="SportsConnection" android:icon="@drawable/logo" android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.AndroidApplication" android:allowBackup="true" android:debuggable="true">
+    <!-- Google Maps V2 API Key -->
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBy5e9FrZoKkWqUJh1XCxDNpJr8XBN32rQ" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="SportsConnection.Droid" android:launchMode="standard" android:theme="@style/MyTheme" android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.MainActivity" />
+    <receiver android:permission="com.google.android.c2dm.permission.SEND" android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.PushHandlerBroadcastReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.xamarin.sample.SportsConnection" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <category android:name="com.xamarin.sample.SportsConnection" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.google.android.gcm.intent.RETRY" />
+        <category android:name="com.xamarin.sample.SportsConnection" />
+      </intent-filter>
+    </receiver>
+    <service android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.GcmService" />
+    <service android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.LocationService" />
+    <service android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.GeofencingService" />
+    <activity android:label="SportsConnection" android:launchMode="singleTop" android:noHistory="true" android:theme="@style/MyTheme.Splash" android:name="md5fd0fecdd829ba6ffa6d71b06c7403073.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorActivity" />
+    <activity android:label="Web Authenticator Native Broswer" android:launchMode="singleTop" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorNativeBrowserActivity" />
+    <activity android:name="com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity" />
+    <activity android:label="Web Authenticator" android:name="md5a104545e4d19c4ffe9ec3d5074a3b979.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md5a104545e4d19c4ffe9ec3d5074a3b979.WebAuthenticatorActivity" />
+    <activity android:name="md5a104545e4d19c4ffe9ec3d5074a3b979.CustomUrlSchemeCallbackActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="xamarin.auth" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="xamarinauth" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="localhost" />
+      </intent-filter>
+    </activity>
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.sample.SportsConnection.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.sample.SportsConnection" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

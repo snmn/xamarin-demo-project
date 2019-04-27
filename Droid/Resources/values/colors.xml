@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<color name="windowBackground">@color/black</color>
+  	<color name="primary">@color/blueishBlack</color>
+  	<color name="primaryDark">@color/mediumBlack</color>
+  	<color name="accent">@color/greenishBlue</color>
+
+	<color name="white">#fafafa</color>
+	<color name="lightGray">#f0f0f0</color>
+  	<color name="darkGray">#C0C0C0</color>
+	<color name="blueishGray">#262936</color>
+
+	<color name="black">#000000</color>
+	<color name="transparentLightBlack">#cc000000</color>
+	<color name="mediumBlack">#111111</color>
+	<color name="blueishBlack">#15161D</color>
+	<color name="lightBlueishBlack">#1F202B</color>
+	
+	<color name="blue">#006fba</color>
+	<color name="greenishBlue">#69a1b4</color>
+	<color name="orange">#ff9a00</color>
+</resources>

@@ -1,0 +1,4 @@
+﻿namespace SportsConnection {
+	class LatLng {
+	}
+}

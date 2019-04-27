@@ -1,0 +1,72 @@
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/bin/iPhoneSimulator/Debug/SportsConnectioniOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/mscorlib.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Threading.Tasks.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Threading.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ObjectModel.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Globalization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.ReaderWriter.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Linq.Expressions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.IO.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Dynamic.Runtime.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/../../32bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Linq.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SportsConnection.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Microsoft.Azure.Mobile.Client.4.0.2/lib/xamarinios10/Microsoft.Azure.Mobile.Client.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Resources.ResourceManager.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlDocument.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Xml.XDocument.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Primitives.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.TypeConverter.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.Serialization.Formatters.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Reflection.Primitives.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.Extensions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Microsoft.CSharp.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/PCLCrypto.2.0.147/lib/xamarinios10/PCLCrypto.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/PInvoke.BCrypt.0.5.111/lib/portable-net45+win8+wpa81/PInvoke.BCrypt.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Runtime.InteropServices.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/PInvoke.Windows.Core.0.5.111/lib/portable-net45+win8+wpa81/PInvoke.Windows.Core.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/PInvoke.Kernel32.0.5.111/lib/portable-net45+win8+wpa81/PInvoke.Kernel32.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Validation.2.4.18/lib/netstandard1.3/Validation.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Microsoft.Azure.Mobile.Client.SQLiteStore.4.0.2/lib/netstandard1.4/Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/SQLitePCLRaw.core.1.1.9/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/SQLitePCLRaw.bundle_green.1.1.9/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/SQLitePCLRaw.provider.sqlite3.ios_unified.1.1.9/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.FFImageLoading.Forms.2.2.25/lib/Xamarin.iOS10/FFImageLoading.Forms.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.FFImageLoading.2.2.25/lib/Xamarin.iOS10/FFImageLoading.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/Facades/System.Net.Primitives.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.FFImageLoading.2.2.25/lib/Xamarin.iOS10/FFImageLoading.Platform.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/WebP.Touch.1.0.7/lib/Xamarin.iOS10/WebP.Touch.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xam.Plugins.Forms.ImageCircle.1.8.1/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.Abstractions.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/modernhttpclient.2.4.2/lib/Xamarin.iOS10/ModernHttpClient.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.Auth.1.5.0.3/lib/Xamarin.iOS10/Xamarin.Auth.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mono/Xamarin.iOS/System.Json.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/SQLitePCL.3.8.7.2/lib/Xamarin.iOS10/SQLitePCL.Ext.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/SQLitePCL.3.8.7.2/lib/Xamarin.iOS10/SQLitePCL.dll
+/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/packages/Xamarin.FFImageLoading.Forms.2.2.25/lib/Xamarin.iOS10/FFImageLoading.Forms.Touch.dll

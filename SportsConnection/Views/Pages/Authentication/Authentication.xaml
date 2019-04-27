@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.Authentication"
+	Title="SportsConnect"
+	BackgroundColor="Transparent">
+
+	<ContentPage.Content>
+
+		<AbsoluteLayout 
+			x:Name="pageContainer">
+
+			<ffimageloading:CachedImage
+				x:Name="bgImage"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				DownsampleToViewSize="true"
+				Source=""
+				Aspect="AspectFill"/>
+			
+			<StackLayout 
+				x:Name="mainContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				Padding="0,0,0,10">
+
+				<StackLayout
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="CenterAndExpand"
+					Padding="10,10,10,0">
+
+					<ffimageloading:CachedImage
+						x:Name="imgSportsConnectLogo"
+						HorizontalOptions="Center"
+						VerticalOptions="Start"	
+						HeightRequest="120"
+						WidthRequest="120"
+						DownsampleToViewSize="true"
+						Source=""/>
+
+					<StackLayout
+						Orientation="Vertical"
+						HorizontalOptions="CenterAndExpand"
+						VerticalOptions="Start"
+						Margin="0,30,0,0">
+
+						<StackLayout
+							Orientation="Horizontal"
+							HorizontalOptions="CenterAndExpand"
+							VerticalOptions="EndAndExpand"
+							Margin="0,0,0,20"
+							Padding="10,10,10,10">
+
+							<ffimageloading:CachedImage
+								x:Name="btnLoginWithFacebook"
+								HorizontalOptions="Center"
+								VerticalOptions="Start"	
+								WidthRequest="45"
+								HeightRequest="45"
+								Margin="10,0,10,0"
+								DownsampleToViewSize="true"
+								Source=""/>
+
+							<ffimageloading:CachedImage
+								x:Name="btnLoginWithTwitter"
+								HorizontalOptions="Center"
+								VerticalOptions="Start"	
+								WidthRequest="45"
+								HeightRequest="45"
+								Margin="10,0,10,0"
+								DownsampleToViewSize="true"
+								Source=""/>
+
+							<ffimageloading:CachedImage
+								x:Name="btnLoginWithGooglePlus"
+								HorizontalOptions="Center"
+								VerticalOptions="Start"	
+								WidthRequest="45"
+								HeightRequest="45"
+								Margin="10,0,10,0"
+								DownsampleToViewSize="true"
+								Source=""/>
+
+						</StackLayout>
+								
+					</StackLayout>
+
+				</StackLayout>
+
+				<StackLayout
+					Orientation="Vertical"
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="End"
+					Margin="0,0,0,-10"
+					BackgroundColor="{x:Static local:Colors.MEDIUM_BLACK}" 
+					Opacity="0.9">
+
+					<Label 
+						HorizontalOptions="CenterAndExpand"
+						VerticalOptions="End"
+						Margin="30,10,30,10"
+						Text="{x:Static local:Txt.LBL_SELECT_SOCIAL_NETWORK_LOGIN}"
+						TextColor="{x:Static local:Colors.LIGHT_GRAY_1}" 
+						HorizontalTextAlignment="Center"
+						FontSize="15" 
+						FontAttributes="Bold" />
+					
+				</StackLayout>
+
+			</StackLayout>
+
+			<local:MsgContainer 
+				x:Name="msgContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+					
+			<local:NoConnectionContainer 
+				x:Name="noConnectionContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+							
+		</AbsoluteLayout>
+
+	</ContentPage.Content>
+		
+</ContentPage>

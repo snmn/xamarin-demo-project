@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{34B9099E-4B00-4707-BFDE-0B95997F8893}|Default">
+  <MonoDevelop.Ide.ItemProperties.SportsConnection.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Activities/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/Activities/MainActivity.cs" Line="375" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Models/LocationPost.cs" relfile="SportsConnection/Models/LocationPost.cs" line="296" column="1" />
+      <Breakpoint enabled="false" file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Models/LocationPost.cs" relfile="SportsConnection/Models/LocationPost.cs" line="303" column="1" />
+      <Breakpoint enabled="false" file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Models/LocationPost.cs" relfile="SportsConnection/Models/LocationPost.cs" line="328" column="1" />
+      <Breakpoint enabled="false" file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Models/LocationPost.cs" relfile="SportsConnection/Models/LocationPost.cs" line="320" column="1" />
+      <Breakpoint enabled="false" file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Models/LocationPost.cs" relfile="SportsConnection/Models/LocationPost.cs" line="335" column="1" />
+      <Breakpoint file="/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/Views/Pages/Locations/LocationDetails.xaml" relfile="SportsConnection/Views/Pages/Locations/LocationDetails.xaml" line="653" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SportsConnection.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D709E4E4-95DF-42C0-83AB-E82FE59EE62D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Projetos em andamento/SportsConnect/Repos/SportsConnection/SportsConnection\Pages\Authentication\Authentication.xaml.cs" line="54" offsetX="928" offsetY="795" expression="userSportList" liveUpdate="False" />
+    <Watch file="SportsConnection/Utils/SocialInfoUtils.cs" line="148" offsetX="624" offsetY="2205" expression="infoFromFacebook" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

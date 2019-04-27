@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+Function=UIApplicationMain
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/diego/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

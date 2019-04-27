@@ -1,0 +1,3 @@
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Droid.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Droid.dll.mdb

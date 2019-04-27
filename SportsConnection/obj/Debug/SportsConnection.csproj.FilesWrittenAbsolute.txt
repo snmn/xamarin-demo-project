@@ -1,0 +1,132 @@
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.MsgContainer.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.NoConnectionContainer.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.Locations.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.LocationDetails.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.LocationsManagement.LocationsManagement.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.About.About.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Authentication.Authentication.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.Friends.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Menu.Menu.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Profile.Profile.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Settings.Settings.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.CreateUpdateLocation.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.CurrentUserMessageViewCell.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.OtherUserMessageViewCell.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Splash.Splash.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.AddFriend.xaml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.MsgContainer.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.NoConnectionContainer.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.Locations.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.LocationDetails.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.LocationsManagement.LocationsManagement.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.About.About.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Authentication.Authentication.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.Friends.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Menu.Menu.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Profile.Profile.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Settings.Settings.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.CreateUpdateLocation.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.CurrentUserMessageViewCell.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.OtherUserMessageViewCell.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Splash.Splash.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.AddFriend.xaml.g.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SportsConnection.dll.mdb
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SportsConnection.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.dll.mdb
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ModernHttpClient.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCL.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.Extensions.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.Primitives.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/PCLCrypto.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ExifLib.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Ioc.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Platform.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Serialization.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Forms.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Newtonsoft.Json.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Validation.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Auth.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Platform.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Transformations.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Forms.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.MsgContainer.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.NoConnectionContainer.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.Locations.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.LocationDetails.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.LocationsManagement.LocationsManagement.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.About.About.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Authentication.Authentication.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.Friends.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Menu.Menu.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Profile.Profile.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Settings.Settings.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.CreateUpdateLocation.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.CurrentUserMessageViewCell.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.OtherUserMessageViewCell.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Splash.Splash.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.AddFriend.xaml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.MsgContainer.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Components.NoConnectionContainer.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.Locations.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.LocationDetails.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.LocationsManagement.LocationsManagement.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.About.About.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Authentication.Authentication.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.Friends.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Menu.Menu.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Profile.Profile.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Settings.Settings.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Locations.CreateUpdateLocation.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.CurrentUserMessageViewCell.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.ListViewCells.OtherUserMessageViewCell.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Splash.Splash.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.Views.Pages.Friends.AddFriend.xaml.g.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SportsConnection.dll.mdb
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SportsConnection.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/obj/Debug/SportsConnection.dll.mdb
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ModernHttpClient.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCL.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.Extensions.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/System.Net.Http.Primitives.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/PCLCrypto.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ExifLib.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Ioc.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Platform.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Serialization.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/XLabs.Forms.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Newtonsoft.Json.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Validation.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Auth.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Platform.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Transformations.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/FFImageLoading.Forms.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/SportsConnection/bin/Debug/Xamarin.Forms.Maps.dll

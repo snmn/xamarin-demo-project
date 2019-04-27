@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.Locations">
+
+	<ContentPage.Content>
+
+		<!-- Page Container -->
+		<AbsoluteLayout x:Name="pageContainer">
+
+			<!-- Main Container -->
+			<StackLayout x:Name="mainContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				Padding="0,0,0,10">
+
+				<RelativeLayout>
+
+				    <!-- Map Container -->
+				    <RelativeLayout
+				      	RelativeLayout.XConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0, Constant=0}"
+				      	RelativeLayout.YConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0, Constant=0}"
+				      	RelativeLayout.WidthConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1, Constant=0}"
+				      	RelativeLayout.HeightConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1, Constant=0}">
+
+				      <StackLayout x:Name="mapContainer"
+				           RelativeLayout.XConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0, Constant=0}"
+				           RelativeLayout.YConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0, Constant=0}"
+				           RelativeLayout.WidthConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1, Constant=0}"
+				           RelativeLayout.HeightConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1, Constant=0}">
+				        	<!-- maps goes here -->
+				      </StackLayout>
+						
+				    </RelativeLayout>
+				    <!-- ./Map Container -->
+
+				    <!-- Toolbar -->
+				    <StackLayout
+					      RelativeLayout.XConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0, Constant=0}"
+					      RelativeLayout.YConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=1, Constant=-120}"
+					      RelativeLayout.WidthConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1, Constant=0}"
+					      RelativeLayout.HeightConstraint="{ ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0, Constant=80}">
+
+				      <StackLayout 
+							Orientation="Horizontal" 
+							BackgroundColor="Transparent" 
+							Padding="15,0,15,0">
+
+							<ffimageloading:CachedImage 
+								x:Name="btnAddLocation" 
+							    HorizontalOptions="EndAndExpand" 
+								VerticalOptions="Center" 
+								WidthRequest="50" 
+								HeightRequest="50" 
+								DownsampleToViewSize="true"
+								Source="{x:Static local:Constants.IMAGE_ICO_BTN_PLUS_MAIN}"/>
+						
+				      </StackLayout>
+						
+				    </StackLayout>
+				    <!-- ./Toolbar -->
+
+				</RelativeLayout>
+			
+		    </StackLayout>
+			<!-- ./Content Container -->
+
+			<!-- Base page components  -->
+			<local:MsgContainer x:Name="msgContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+					
+			<local:NoConnectionContainer x:Name="noConnectionContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+			<!-- ./Base page components -->
+			
+		</AbsoluteLayout>
+		<!-- ./Page Container -->
+
+	</ContentPage.Content>
+	
+</ContentPage>

@@ -1,0 +1,1 @@
+<resources><style name="MyTheme" parent="MyTheme.Base"><!--If you are using MasterDetailPage you will want to set these, else you can leave them out--><item name="android:windowDrawsSystemBarBackgrounds">false</item><item name="android:statusBarColor">@color/blue</item><item name="android:textAllCaps">false</item></style></resources>

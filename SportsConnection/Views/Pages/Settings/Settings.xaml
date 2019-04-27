@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.Settings">
+
+	<ContentPage.Content>
+
+		<AbsoluteLayout>
+
+			<StackLayout 
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				Padding="0,0,0,0">
+
+				<StackLayout
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="FillAndExpand"
+					Margin="0,0,0,0"
+					BackgroundColor="White">
+					
+					<StackLayout 
+						Orientation="Horizontal" 
+					    HorizontalOptions="FillAndExpand" 
+						VerticalOptions="Start"
+						HeightRequest="45" 
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+								
+					    <Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="10,10,10,10"
+							Text="{x:Static local:Txt.LBL_TERMS_AND_CONDITIONS}"
+							TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+							FontSize="17" 
+							FontAttributes="Bold" />
+								
+					</StackLayout>
+
+					<StackLayout 
+						Orientation="Vertical" 
+					    HorizontalOptions="FillAndExpand" 
+						VerticalOptions="StartAndExpand"
+						BackgroundColor="White">
+
+						<Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="15,10,15,0"
+							Text="{x:Static local:Txt.MSG_TERMS_AND_CONDITIONS_TITLE}"
+							TextColor="{x:Static local:Colors.LIGHT_BLACK}" 
+							FontSize="14"
+							FontAttributes="Bold"/>
+						
+					    <Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="15,10,15,10"
+							Text="{x:Static local:Txt.MSG_TERMS_AND_CONDITIONS}"
+							TextColor="{x:Static local:Colors.LIGHT_BLACK}" 
+							FontSize="14"/>
+								
+					</StackLayout>
+					
+				</StackLayout>
+						
+			</StackLayout>
+	
+		</AbsoluteLayout>
+
+	</ContentPage.Content>
+	
+</ContentPage>

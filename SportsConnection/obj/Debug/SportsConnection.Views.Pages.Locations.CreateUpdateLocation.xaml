@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.CreateUpdateLocation">
+
+	<ContentPage.Content>
+
+		<AbsoluteLayout 
+			x:Name="pageContainer">
+
+			<StackLayout
+				x:Name="mainContainer"
+				Orientation="Vertical"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All">
+
+				<StackLayout
+					Orientation="Vertical"
+					VerticalOptions="FillAndExpand"
+					HorizontalOptions="FillAndExpand">
+				
+					<StackLayout 
+						Orientation="Horizontal" 
+					    HorizontalOptions="FillAndExpand" 
+						HeightRequest="40" 
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+								
+					    <Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="10,10,10,10"
+							Text="{x:Static local:Txt.LBL_LOCATION_NAME}"
+							TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+							FontSize="17" 
+							FontAttributes="Bold" />
+								
+					</StackLayout>
+
+					<Frame 
+						HorizontalOptions="FillAndExpand" 
+						VerticalOptions="Start"
+						Margin="10,0,10,10"
+						BackgroundColor="{x:Static local:Colors.WHITE}">
+
+						<StackLayout 
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="Start"
+							Margin="-10,-10,-10,-10"	
+							Padding="0,0,0,0">
+													
+							<Entry 
+							    x:Name="locationName" 
+							    HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand"
+								Placeholder="Location Name" 
+								PlaceholderColor="{x:Static local:Colors.MEDIUM_GRAY}"/>
+
+							<ffimageloading:CachedImage 
+							    x:Name="btnCleanLocName" 
+								HorizontalOptions="End" 
+								VerticalOptions="Center" 
+								WidthRequest="20" 
+								HeightRequest="20"
+								DownsampleToViewSize="true"
+								BindingContext="."
+								Source="{x:Static local:Constants.IMAGE_ICO_DELETE_BLACK}" />
+								
+						</StackLayout>
+							
+					</Frame>
+					
+					<StackLayout 
+						Orientation="Horizontal" 
+				      	HorizontalOptions="FillAndExpand" 
+						HeightRequest="40" 
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+								
+					    <Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="10,10,10,10"
+							Text="{x:Static local:Txt.LBL_WHAT_SPORTS_PLAYED}"
+							TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+							FontSize="17" 
+							FontAttributes="Bold" />
+								
+					</StackLayout>
+
+					<Frame 
+						HorizontalOptions="FillAndExpand" 
+						VerticalOptions="Start"
+						Margin="10,0,10,10"
+						HeightRequest="70"
+						BackgroundColor="{x:Static local:Colors.WHITE}">
+					
+						<StackLayout 
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="Start"
+							Margin="-10,-10,-10,-10"	
+							Padding="0,0,0,0">
+
+							<ListView 
+				            	x:Name="listSports" 
+							    HorizontalOptions="StartAndExpand" 
+								VerticalOptions="Start"
+								Margin="0,0,0,0"
+								HasUnevenRows="true"
+								BindingContext=".">
+
+							<ListView.ItemTemplate>
+									
+								<DataTemplate>
+										
+								    <ViewCell>
+
+										<StackLayout 
+											HorizontalOptions="Start" 
+											VerticalOptions="Start"
+											Orientation="Horizontal"
+											Padding="0,5,0,5">
+
+											<ffimageloading:CachedImage
+												HorizontalOptions="Start" 
+												VerticalOptions="CenterAndExpand" 
+												WidthRequest="30" 
+												HeightRequest="30"
+												DownsampleToViewSize="true"
+												Source="{Binding checkStatusImg}" />
+
+											<StackLayout 
+												HorizontalOptions="StartAndExpand" 
+												VerticalOptions="CenterAndExpand"
+												Orientation="Horizontal" 
+												Padding="18,0,0,0" >
+
+												<Label 
+													HorizontalOptions="StartAndExpand" 
+													VerticalOptions="CenterAndExpand" 
+													Text="{Binding name}" 
+													FontSize="16"
+													TextColor="{x:Static local:Colors.MEDIUM_BLACK}" />
+																	
+											</StackLayout>
+																
+										</StackLayout>
+															
+									</ViewCell>
+										
+								</DataTemplate>
+									
+							</ListView.ItemTemplate>
+
+						</ListView>
+
+						</StackLayout>
+					
+					</Frame>
+
+					<StackLayout 
+						Orientation="Horizontal" 
+					    HorizontalOptions="FillAndExpand" 
+						HeightRequest="40" 
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+								
+					    <Label 
+					        HorizontalOptions="FillAndExpand"
+							VerticalOptions="Center"
+							Margin="10,10,10,10"
+							Text="{x:Static local:Txt.LBL_LOCATION_DESCRIPTION}"
+							TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+							FontSize="17" 
+							FontAttributes="Bold" />
+								
+					</StackLayout>
+
+					<Frame 
+						HorizontalOptions="FillAndExpand" 
+						VerticalOptions="Start"
+						Margin="10,0,10,10"
+						BackgroundColor="{x:Static local:Colors.WHITE}">
+					
+						<StackLayout 
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="Start"
+							Margin="-10,-10,-10,-10"	
+							Padding="0,0,0,0">
+												
+						    <Editor 
+						        x:Name="locationDescription" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand"
+								HeightRequest="80"/>
+												
+						    <ffimageloading:CachedImage 
+						        x:Name="btnCleanLocDescription" 
+								HorizontalOptions="End" 
+								VerticalOptions="Center" 
+								WidthRequest="20" 
+								HeightRequest="20"
+								DownsampleToViewSize="true"
+								BindingContext="."
+								Source="{x:Static local:Constants.IMAGE_ICO_DELETE_BLACK}" />
+
+						</StackLayout>
+
+					</Frame>
+					
+					<StackLayout 
+						Orientation="Horizontal" 
+						HorizontalOptions="FillAndExpand" 
+						VerticalOptions="EndAndExpand" 
+						BackgroundColor="Transparent" 
+						Margin="0,0,0,-5"
+						Padding="0,0,0,0">
+								
+					    <Button 
+							x:Name="btnSave"
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="End" 
+							HeightRequest="60" 
+							FontAttributes="Bold"
+							BackgroundColor="{x:Static local:Colors.MEDIUM_BLACK}" 
+							TextColor="{x:Static local:Colors.WHITE}" 
+							BorderWidth="0"
+							Clicked="validateLocationInfoAndSave" />
+								
+					</StackLayout>
+
+				</StackLayout>
+				
+		    </StackLayout>
+			
+			<local:MsgContainer 
+				x:Name="msgContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+					
+			<local:NoConnectionContainer 
+				x:Name="noConnectionContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+			
+		</AbsoluteLayout>
+	
+	</ContentPage.Content>
+	
+</ContentPage>

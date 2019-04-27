@@ -1,0 +1,312 @@
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Transition.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v4.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.CardView.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.Palette.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Design.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/GCM.Client.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/System.Net.Http.Extensions.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/System.Net.Http.Primitives.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ModernHttpClient.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/OkHttp.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PCLCrypto.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Plugin.CurrentActivity.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCL.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCL.Ext.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ImageCircle.Forms.Plugin.Android.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FormsViewGroup.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.Windows.Core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.Kernel32.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.BCrypt.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.NCrypt.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Google.Apis.Core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Google.Apis.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Validation.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Auth.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Platform.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Transformations.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Forms.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Forms.Droid.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.core.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.dll.mdb
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.Droid.dll.mdb
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.Droid.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/com.xamarin.sample.SportsConnection.apk
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/android/bin/com.xamarin.sample.SportsConnection.apk
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values/style.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values/colors.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_lg.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_plus.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/placeholder_user.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_map.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_no_internet.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_info.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_location.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_friends.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_settings.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_sign_out.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/map_location_info_dialog.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/tabs.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/toolbar.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values-v21/style.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_pin.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_home.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_notification.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_scroll.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_delete_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_checked.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_unchecked.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_plus_main.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_white.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_sport.jpg
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_chat.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_directions.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_people.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_off.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_on.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_refresh.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_gray_arrow_up.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/img_sport_soccer.jpg
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/img_sport_basketball.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_auth.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_welcome_auth.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_sm.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_facebook.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_google_plus.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_twitter.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_splash.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_profile_orange.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_location_pin.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/map_location_pin.xml
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_send_message.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_message_current_user.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_message_other_user.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_internet_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_internet_white.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_recent_locations.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_user_locations.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_clear.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_see_details.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_delete.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_edit.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_profile.jpg
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_profile_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_blue.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_frienship_request_black.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_search.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_confirm_green.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_unfriend_white.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_block_user_white.png
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/R.cs.flag
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/com.xamarin.sample.SportsConnection-Signed.apk
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/uploadflags.txt
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/SportsConnection.Droid.dll
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/obj/Debug/SportsConnection.Droid.dll.mdb
+/Users/diegoSilva/Desktop/Projetos/SportsConnect/Repos/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Maps.Android.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Transition.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v4.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.CardView.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.Palette.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Design.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.Droid.dll.mdb
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.Droid.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/com.xamarin.sample.SportsConnection.apk
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/android/bin/com.xamarin.sample.SportsConnection.apk
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values/style.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values/colors.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_lg.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_plus.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/placeholder_user.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_map.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_no_internet.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_info.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_location.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_friends.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_settings.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_sign_out.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/map_location_info_dialog.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/tabs.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/toolbar.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/values-v21/style.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_pin.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_home.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_notification.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_scroll.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_delete_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_checked.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_unchecked.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_plus_main.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_white.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_sport.jpg
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_chat.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_directions.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_people.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_off.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_on.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_refresh.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_gray_arrow_up.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/img_sport_soccer.jpg
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/img_sport_basketball.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_auth.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_welcome_auth.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/logo_sm.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_facebook.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_google_plus.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_twitter.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_splash.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_profile_orange.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_location_pin.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/layout/map_location_pin.xml
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_send_message.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_message_current_user.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_message_other_user.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_internet_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_internet_white.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_favorite_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_recent_locations.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_user_locations.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_btn_clear.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_see_details.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_delete.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_edit.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/bg_profile.jpg
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_profile_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_blue.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_save_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_frienship_request_black.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_search.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_confirm_green.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_unfriend_white.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/res/drawable/ico_block_user_white.png
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/R.cs.flag
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/com.xamarin.sample.SportsConnection-Signed.apk
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/uploadflags.txt
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/SportsConnection.Droid.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/obj/Debug/SportsConnection.Droid.dll.mdb
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/GCM.Client.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/System.Net.Http.Extensions.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/System.Net.Http.Primitives.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ModernHttpClient.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/OkHttp.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PCLCrypto.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Plugin.CurrentActivity.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCL.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCL.Ext.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/ImageCircle.Forms.Plugin.Android.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FormsViewGroup.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.Windows.Core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.Kernel32.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.BCrypt.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/PInvoke.NCrypt.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Google.Apis.Core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Google.Apis.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Validation.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Auth.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Platform.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Transformations.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Forms.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/FFImageLoading.Forms.Droid.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.core.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Maps.Android.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.dll
+/Users/diegoSilva/Documents/Projects/SportsConnect/Android - iOS/SportsConnection_Xamarin_Forms/Droid/bin/Debug/SportsConnection.dll.mdb

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:SportsConnection"
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	x:Class="SportsConnection.NoConnectionContainer">
+
+	<StackLayout 
+		x:Name="noConnectionContainer"
+		AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+		AbsoluteLayout.LayoutFlags="All"
+		Padding="20"
+		BackgroundColor="{x:Static local:Colors.TRANSPARENT_LIGHT_BLACK}">
+
+		<StackLayout
+			HorizontalOptions="FillAndExpand"
+			VerticalOptions="CenterAndExpand"
+			Orientation="Vertical">
+						
+			<Label 
+				x:Name="noConnectionMsg"
+				HorizontalOptions="Center"
+				VerticalOptions="Start"
+				HorizontalTextAlignment="Center"
+				Text=""
+				TextColor="{x:Static local:Colors.LIGHT_GRAY}"/>
+
+			<ffimageloading:CachedImage 
+				x:Name="imgNoConnection"
+				HorizontalOptions="Center"
+				VerticalOptions="EndAndExpand"
+				HeightRequest="50"
+				WidthRequest="50"
+				Margin="0,10,0,0"
+				Source="{x:Static local:Constants.IMAGE_ICO_NO_INTERNET_WHITE}"
+				DownsampleToViewSize="true"/>
+									
+		</StackLayout>
+
+		<Button
+			HorizontalOptions="End"
+			VerticalOptions="End"
+			WidthRequest="55"
+			HeightRequest="55"
+			Margin="0,0,0,0"
+			BackgroundColor="Black"
+			TextColor="White"
+			Text="X"
+			Clicked="tryRefreshContainers"/>
+		
+	</StackLayout>
+			
+</ContentView>

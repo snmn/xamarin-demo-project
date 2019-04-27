@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:local="clr-namespace:SportsConnection;assembly=SportsConnection" 
+	xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+	xmlns:fftransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+	xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+	x:Class="SportsConnection.LocationsManagement">
+
+	<ContentPage.Resources>
+
+	    <ResourceDictionary>
+			
+	      	<!-- Insert any object that you want to use on the code here -->
+			
+	    </ResourceDictionary>
+		
+  	</ContentPage.Resources>
+	
+	<ContentPage.Content>
+
+		<AbsoluteLayout 
+			x:Name="pageContainer">
+
+			<StackLayout 
+				x:Name="mainContainer"
+				Orientation="Vertical"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"
+				BackgroundColor="White">
+
+				<StackLayout
+					x:Name="headerContainer"
+					Orientation="Vertical"
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="Start">
+					
+				    <StackLayout 
+						x:Name="mapContainer"
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="Start"/>
+					
+				</StackLayout>
+
+				<!-- Location name -->
+				<StackLayout 
+					x:Name="locationNameContainer"
+					Orientation="Horizontal" 
+				    HorizontalOptions="FillAndExpand" 
+					VerticalOptions="Start"
+					Margin="0,0,0,-6"
+					BackgroundColor="White">
+
+					<Label 
+						x:Name="locationName"
+					    HorizontalOptions="StartAndExpand"
+						VerticalOptions="Center"
+						Margin="15,15,15,15"
+						Text="{x:Static local:Txt.LBL_LOCATION_NAME}"
+						LineBreakMode = "TailTruncation"
+						TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+						FontSize="17" 
+						FontAttributes="Bold" />
+
+					<ffimageloading:CachedImage 
+						x:Name="arrowToggleHeaderVisibilityImage" 
+					    HorizontalOptions="End" 
+						VerticalOptions="Center"
+						HeightRequest="18"
+						WidthRequest="18"
+						Margin="10,10,15,10"
+						DownsampleToViewSize="true"
+						Opacity="0.5"
+						Rotation="0"
+						Source="{x:Static local:Constants.IMAGE_ICO_GRAY_ARROW_UP}"/>
+
+				</StackLayout>
+			
+				<!-- Tabs -->
+				<StackLayout 
+					Orientation="Horizontal" 
+				    HorizontalOptions="FillAndExpand" 
+					VerticalOptions="Start"
+					Margin="0,0,0,0"
+					Padding="0,1,0,0"
+					BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+
+					<StackLayout
+						x:Name="tabASelector"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="Start"
+						HeightRequest="45"
+						BackgroundColor="{x:Static local:Colors.MEDIUM_GRAY}">
+
+						<StackLayout.GestureRecognizers>
+					        <TapGestureRecognizer Tapped="selectTab1"/>
+					    </StackLayout.GestureRecognizers>
+								
+						<ffimageloading:CachedImage 
+							x:Name="tabASelectorImage"
+						    HorizontalOptions="Center" 
+							VerticalOptions="Center"
+							WidthRequest="18" 
+							HeightRequest="18"
+							Margin="0,10,0,0"
+							DownsampleToViewSize="true"
+							Opacity="1"
+							Source="{x:Static local:Constants.IMAGE_ICO_FAVORITE_LOCATION_BLACK}" />
+
+						<Label 
+							x:Name="numberFavoriteLocations" 
+							HorizontalOptions="Center" 
+							VerticalOptions="Center" 
+							Margin="35,-10,5,0"
+							Text="" 
+							TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+							FontSize="11" 
+							FontAttributes="Bold"/>
+						
+						<StackLayout
+							x:Name="tabASelectorIndicator"
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand"
+							VerticalOptions="End"
+							HeightRequest="2"
+							Margin="0,-5,0,0"
+							BackgroundColor="{x:Static local:Colors.DARKER_BLUEISH_BLACK}"/>
+						
+					</StackLayout>
+
+					<StackLayout
+						x:Name="tabBSelector"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="Start"
+						HeightRequest="40"
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+
+						<StackLayout.GestureRecognizers>
+					        <TapGestureRecognizer Tapped="selectTab2"/>
+					    </StackLayout.GestureRecognizers>
+								
+						<ffimageloading:CachedImage 
+							x:Name="tabBSelectorImage"
+						    HorizontalOptions="Center" 
+							VerticalOptions="Center"
+							WidthRequest="18" 
+							HeightRequest="18"
+							Margin="0,10,0,0"
+							DownsampleToViewSize="true"
+							Opacity="0.4"
+							Source="{x:Static local:Constants.IMAGE_ICO_RECENT_LOCATIONS}" />
+
+						<Label 
+							x:Name="numberRecentLocations" 
+							HorizontalOptions="Center" 
+							VerticalOptions="Center" 
+							Margin="35,-10,5,0"
+							Text="" 
+							TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+							FontSize="11"
+							Opacity="0.4"
+							FontAttributes="Bold"/>
+				
+						<StackLayout
+							x:Name="tabBSelectorIndicator"
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand"
+							VerticalOptions="End"
+							HeightRequest="2"
+							Margin="0,-5,0,0"
+							BackgroundColor="{x:Static local:Colors.DARKER_BLUEISH_BLACK}"
+							IsVisible="false"/>
+	
+					</StackLayout>
+
+					<StackLayout
+						x:Name="tabCSelector"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="Start"
+						HeightRequest="40"
+						BackgroundColor="{x:Static local:Colors.LIGHT_GRAY}">
+
+						<StackLayout.GestureRecognizers>
+					        <TapGestureRecognizer Tapped="selectTab3"/>
+					    </StackLayout.GestureRecognizers>
+								
+						<ffimageloading:CachedImage 
+							x:Name="tabCSelectorImage"
+					        HorizontalOptions="Center" 
+							VerticalOptions="Center"
+							WidthRequest="18" 
+							HeightRequest="18"
+							Margin="0,10,0,0"
+							DownsampleToViewSize="true"
+							Opacity="0.4"
+							Source="{x:Static local:Constants.IMAGE_ICO_USER_LOCATIONS}" />
+
+						<Label 
+							x:Name="numberLocationsOwnedByUser" 
+							HorizontalOptions="Center" 
+							VerticalOptions="Center" 
+							Margin="35,-10,5,0"
+							Text="" 
+							TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+							FontSize="11" 
+							Opacity="0.4"
+							FontAttributes="Bold"/>
+
+						<StackLayout
+							x:Name="tabCSelectorIndicator"
+							Orientation="Horizontal"
+							HorizontalOptions="FillAndExpand"
+							VerticalOptions="End"
+							HeightRequest="2"
+							Margin="0,-5,0,0"
+							BackgroundColor="{x:Static local:Colors.DARKER_BLUEISH_BLACK}"
+							IsVisible="false"/>
+								
+					</StackLayout>
+									
+				</StackLayout>
+				<!-- ./Tabs -->
+						
+				<!-- PagerContainer -->
+				<StackLayout
+					Orientation="Vertical" 
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="FillAndExpand"
+					Margin="0,-6,0,0"
+					BackgroundColor="White">
+
+					<StackLayout
+						x:Name="tabA"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="FillAndExpand"
+						BackgroundColor="White"
+						IsVisible="true">
+
+						<!-- Favorite locations -->
+					    <StackLayout 
+							Orientation="Vertical" 
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="FillAndExpand" 
+							BackgroundColor="White">
+
+							<StackLayout 
+								Orientation="Horizontal" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="Start" 
+								BackgroundColor="{x:Static local:Colors.LIGHT_GRAY_1}"
+								Padding="15,15,15,15">
+								
+						        <Label 
+									Text="{x:Static local:Txt.LBL_FAVORITE_LOCATIONS}" 
+									HorizontalOptions="Start" 
+									VerticalOptions="Center"
+									TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+									Opacity="0.8"
+									FontSize="14" 
+									FontAttributes="Bold"/>
+							
+						    </StackLayout>
+							
+						    <StackLayout 
+								x:Name="viewFavoriteLocations" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand" 
+								BackgroundColor="White"
+								IsVisible="false">
+									
+						        <ListView 
+									x:Name="listFavoriteLocations" 
+									HorizontalOptions="FillAndExpand" 
+									VerticalOptions="FillAndExpand" 
+									Margin="0,0,0,0"
+									HasUnevenRows="True"  
+									BackgroundColor="White">
+										
+							        <ListView.ItemTemplate>
+
+										<DataTemplate>
+													
+							                <ViewCell>
+														
+								                  <StackLayout 
+													  Orientation="Horizontal" 
+													  HorizontalOptions="FillAndExpand" 
+													  VerticalOptions="Start" 
+													  Padding="15, 10, 15, 10" 
+													  BackgroundColor="White">
+
+													  <StackLayout 	
+									                      Orientation="Vertical" 
+														  HorizontalOptions="StartAndExpand" 
+														  VerticalOptions="Start"
+														  Margin="0,0,0,0">
+
+														  <Label 
+															  HorizontalOptions="FillAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding location.name}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.MEDIUM_BLACK}" 
+															  FontAttributes="Bold"/>
+																
+														  <Label 
+															  HorizontalOptions="StartAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding location.description}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+															  FontAttributes="None" />
+																			
+									                  </StackLayout>
+
+									                  <StackLayout
+															Orientation="Horizontal"
+															HorizontalOptions="EndAndExpand"
+															VerticalOptions="Center"
+															HeightRequest="32">
+
+															<Frame
+															   HorizontalOptions="End" 
+															   VerticalOptions="FillAndExpand"
+															   WidthRequest="32"
+															   HeightRequest="32"
+															   Padding="0,0,0,0"
+															   Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="navigateToLocationDetails"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_SEE_DETAILS}"/>
+															
+														 	</Frame>
+														
+										                  	<Frame
+															    HorizontalOptions="End" 
+															    VerticalOptions="FillAndExpand"
+															    WidthRequest="32"
+															    HeightRequest="32"
+															    Padding="0,0,0,0"
+															    Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="undoRelFavoriteLocation"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_CLEAR_BLACK}"/>
+															
+														    </Frame>
+														 	
+													   </StackLayout>		
+													
+								                 </StackLayout>
+														
+							                </ViewCell>
+													
+							           </DataTemplate>
+											
+						           </ListView.ItemTemplate>
+										
+						       	</ListView>
+									
+						    </StackLayout>
+
+						    <StackLayout 
+								x:Name="emptyMsgFavoriteLocationsContainer" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand"
+								IsVisible="true">
+
+								<Label 
+									HorizontalOptions="CenterAndExpand" 
+									VerticalOptions="CenterAndExpand"
+									Margin="25,0,25,0"
+									Text="{x:Static local:Txt.MSG_EMPTY_LIST_FAVORITE_LOCATIONS}" 
+									FontSize="14"
+									HorizontalTextAlignment="Center"
+									TextColor="{x:Static local:Colors.DARK_GRAY}"/>
+									
+							</StackLayout>
+								
+						</StackLayout>
+						<!-- ./Favorite locations -->
+									
+					</StackLayout>
+
+					<StackLayout
+						x:Name="tabB"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="FillAndExpand" 
+						BackgroundColor="White"
+						IsVisible="false">
+
+						<!-- Recent locations -->
+					    <StackLayout 
+							Orientation="Vertical" 
+							HorizontalOptions="FillAndExpand" 
+							VerticalOptions="FillAndExpand" 
+							BackgroundColor="White">
+
+							<StackLayout 
+								Orientation="Horizontal" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="Start" 
+								BackgroundColor="{x:Static local:Colors.LIGHT_GRAY_1}"
+								Padding="15,15,15,15">
+								
+						        <Label 
+									Text="{x:Static local:Txt.LBL_RECENT_LOCATIONS}" 
+									HorizontalOptions="Start" 
+									VerticalOptions="Center"
+									TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+									Opacity="0.8"
+									FontSize="14" 
+									FontAttributes="Bold"/>
+							
+						    </StackLayout>
+							
+						    <StackLayout 
+								x:Name="viewRecentLocations" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand" 
+								BackgroundColor="White"
+								IsVisible="false">
+									
+						        <ListView 
+									x:Name="listRecentLocations" 
+									HorizontalOptions="FillAndExpand" 
+									VerticalOptions="FillAndExpand" 
+									Margin="0,0,0,0"
+									HasUnevenRows="True"  
+									BackgroundColor="White">
+										
+							        <ListView.ItemTemplate>
+
+										<DataTemplate>
+													
+							                <ViewCell>
+														
+								                  <StackLayout 
+													  Orientation="Horizontal" 
+													  HorizontalOptions="FillAndExpand" 
+													  VerticalOptions="Start" 
+													  Padding="15, 10, 15, 10" 
+													  BackgroundColor="White">
+
+													  <StackLayout 	
+									                      Orientation="Vertical" 
+														  HorizontalOptions="StartAndExpand" 
+														  VerticalOptions="Start"
+														  Margin="0,0,0,0">
+
+														  <Label 
+															  HorizontalOptions="FillAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding location.name}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.MEDIUM_BLACK}" 
+															  FontAttributes="Bold"/>
+																
+														  <Label 
+															  HorizontalOptions="StartAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding location.description}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+															  FontAttributes="None" />
+
+														  <Label 
+															  HorizontalOptions="StartAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding core.UpdatedAt}" 
+															  FontSize="11" 
+															  TextColor="{x:Static local:Colors.BLUEISH_GRAY}" 
+															  FontAttributes="None" />
+																			
+									                  </StackLayout>
+
+									                  <StackLayout
+															Orientation="Horizontal"
+															HorizontalOptions="EndAndExpand"
+															VerticalOptions="Center"
+															HeightRequest="32">
+
+															<Frame
+															   HorizontalOptions="End" 
+															   VerticalOptions="FillAndExpand"
+															   WidthRequest="32"
+															   HeightRequest="32"
+															   Padding="0,0,0,0"
+															   Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="navigateToLocationDetails"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_SEE_DETAILS}"/>
+															
+														 	</Frame>
+														
+													   </StackLayout>		
+													
+								                 </StackLayout>
+														
+							                </ViewCell>
+													
+							           </DataTemplate>
+											
+						           </ListView.ItemTemplate>
+										
+						       	</ListView>
+									
+						    </StackLayout>
+
+						    <StackLayout 
+								x:Name="emptyMsgRecentLocationsContainer" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand"
+								IsVisible="true">
+
+								<Label 
+									HorizontalOptions="CenterAndExpand" 
+									VerticalOptions="CenterAndExpand"
+									Margin="25,0,25,0"
+									Text="{x:Static local:Txt.MSG_EMPTY_LIST_RECENT_LOCATIONS}" 
+									FontSize="14"
+									HorizontalTextAlignment="Center"
+									TextColor="{x:Static local:Colors.DARK_GRAY}"/>
+									
+							</StackLayout>
+								
+						</StackLayout>
+					    <!-- ./Recent locations -->
+					     			
+					</StackLayout>
+
+					<StackLayout
+						x:Name="tabC"
+						Orientation="Vertical" 
+						HorizontalOptions="FillAndExpand"
+						VerticalOptions="FillAndExpand" 
+						BackgroundColor="White"
+						IsVisible="false">
+
+						<!-- User locations -->
+						<StackLayout 
+								Orientation="Horizontal" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="Start" 
+								BackgroundColor="{x:Static local:Colors.LIGHT_GRAY_1}"
+								Padding="15,15,15,15">
+								
+						        <Label 
+									Text="{x:Static local:Txt.LBL_USER_LOCATIONS}" 
+									HorizontalOptions="Start" 
+									VerticalOptions="Center"
+									TextColor="{x:Static local:Colors.BLUEISH_GRAY}"
+									Opacity="0.8"
+									FontSize="14" 
+									FontAttributes="Bold"/>
+							
+						    </StackLayout>
+							
+						    <StackLayout 
+								x:Name="viewUserLocations" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand" 
+								BackgroundColor="White"
+								IsVisible="false">
+									
+						        <ListView 
+									x:Name="listUserLocations" 
+									HorizontalOptions="FillAndExpand" 
+									VerticalOptions="FillAndExpand" 
+									Margin="0,0,0,0"
+									HasUnevenRows="True"  
+									BackgroundColor="White">
+										
+							        <ListView.ItemTemplate>
+
+										<DataTemplate>
+													
+							                <ViewCell>
+														
+								                  <StackLayout 
+													  Orientation="Horizontal" 
+													  HorizontalOptions="FillAndExpand" 
+													  VerticalOptions="Start" 
+													  Padding="15, 10, 15, 10" 
+													  BackgroundColor="White">
+
+													  <StackLayout 	
+									                      Orientation="Vertical" 
+														  HorizontalOptions="StartAndExpand" 
+														  VerticalOptions="Start"
+														  Margin="0,0,0,0">
+
+														  <Label 
+															  HorizontalOptions="FillAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding name}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.MEDIUM_BLACK}" 
+															  FontAttributes="Bold"/>
+																
+														  <Label 
+															  HorizontalOptions="StartAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding description}" 
+															  FontSize="14" 
+															  TextColor="{x:Static local:Colors.GREENISH_BLUE}" 
+															  FontAttributes="None" />
+
+														  <Label 
+															  HorizontalOptions="StartAndExpand" 
+															  VerticalOptions="Start"
+															  Text="{Binding CreatedAt}" 
+															  FontSize="11" 
+															  TextColor="{x:Static local:Colors.BLUEISH_GRAY}" 
+															  FontAttributes="None" />
+																			
+									                  </StackLayout>
+
+									                  <StackLayout
+															Orientation="Horizontal"
+															HorizontalOptions="EndAndExpand"
+															VerticalOptions="Center"
+															HeightRequest="32">
+
+															<Frame
+															   HorizontalOptions="End" 
+															   VerticalOptions="FillAndExpand"
+															   WidthRequest="32"
+															   HeightRequest="32"
+															   Padding="0,0,0,0"
+															   Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="navigateToLocationDetails"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_SEE_DETAILS}"/>
+															
+														 	</Frame>
+
+															<Frame
+															   HorizontalOptions="End" 
+															   VerticalOptions="FillAndExpand"
+															   WidthRequest="32"
+															   HeightRequest="32"
+															   Padding="0,0,0,0"
+															   Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="navigateToUpdateLocation"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_EDIT}"/>
+															
+														 	</Frame>
+														
+										                  	<Frame
+															    HorizontalOptions="End" 
+															    VerticalOptions="FillAndExpand"
+															    WidthRequest="32"
+															    HeightRequest="32"
+															    Padding="0,0,0,0"
+															    Margin="0,0,0,0">
+
+															   <Frame.GestureRecognizers>
+															        <TapGestureRecognizer Tapped="deleteLocation"/>
+															   </Frame.GestureRecognizers>
+
+															   <ffimageloading:CachedImage
+																	HorizontalOptions="Center" 
+																	VerticalOptions="Center"
+																	WidthRequest="18" 
+																	HeightRequest="18"
+																	DownsampleToViewSize="true"
+																	Opacity="0.8"
+																	Source="{x:Static local:Constants.IMAGE_ICO_BTN_DELETE}"/>
+															
+														    </Frame>
+														 	
+													   </StackLayout>		
+													
+								                 </StackLayout>
+														
+							                </ViewCell>
+													
+							           </DataTemplate>
+											
+						           </ListView.ItemTemplate>
+										
+						       	</ListView>
+									
+						    </StackLayout>
+
+						    <StackLayout 
+								x:Name="emptyMsgUserLocationsContainer" 
+								Orientation="Vertical" 
+								HorizontalOptions="FillAndExpand" 
+								VerticalOptions="FillAndExpand"
+								IsVisible="true">
+
+								<Label 
+									HorizontalOptions="CenterAndExpand" 
+									VerticalOptions="CenterAndExpand"
+									Margin="25,0,25,0"
+									Text="{x:Static local:Txt.MSG_EMPTY_LIST_USER_LOCATIONS}" 
+									FontSize="14"
+									HorizontalTextAlignment="Center"
+									TextColor="{x:Static local:Colors.DARK_GRAY}"/>
+									
+							</StackLayout>
+						
+					</StackLayout>
+					
+				</StackLayout>
+				<!-- ./PagerContainer -->
+					
+			</StackLayout>
+					
+			<local:MsgContainer 
+				x:Name="msgContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+						
+			<local:NoConnectionContainer 
+				x:Name="noConnectionContainer"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 1" 
+				AbsoluteLayout.LayoutFlags="All"/>
+				
+		</AbsoluteLayout>
+
+	</ContentPage.Content>
+	
+</ContentPage>
